@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "This is my test website, kinda cool NGL"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is a very interesting concept. I enjoy this idea and its execution too.
